@@ -1,0 +1,20 @@
+name: distributed-bank-job-queue-web
+description: Production-grade React 19.2 banking operations console for a Kafka-backed distributed job queue, with bounded API validation, idempotent workflows, accessibility and E2E tests, CycloneDX SBOM, and hardened nginx delivery.
+homepage: ''
+topics:
+  - react
+  - typescript
+  - banking
+  - kafka
+  - job-queue
+  - webflux
+  - playwright
+  - vite
+  - observability
+  - fintech
+private: false
+has_issues: true
+has_projects: false
+has_wiki: false
+has_downloads: true
+is_template: false
