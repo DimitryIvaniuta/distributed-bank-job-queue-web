@@ -1,0 +1,17 @@
+{
+  "name": "BankFlow Queue Console",
+  "short_name": "BankFlow",
+  "description": "Banking operations console for the distributed job queue.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0a2744",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
