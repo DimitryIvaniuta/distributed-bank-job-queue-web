@@ -11,7 +11,7 @@ RUN npm run typecheck \
     && npm run test:coverage \
     && npm run build
 
-FROM nginxinc/nginx-unprivileged:1.30.2-alpine3.23-slim AS runtime
+FROM nginxinc/nginx-unprivileged:1.31.2-alpine3.23-slim AS runtime
 LABEL org.opencontainers.image.title="BankFlow Queue Console" \
       org.opencontainers.image.description="Production React console for the distributed banking job queue" \
       org.opencontainers.image.version="1.1.0" \
